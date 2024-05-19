@@ -1,5 +1,5 @@
 In this project I used Pandas and matplotlib library to analyse electoral bond data. source of data: https://www.eci.gov.in/disclosure-of-electoral-bonds.
-
+Source code: dta.ipynb (in current folder)
 Here are some finding: 
 ![](https://github.com/hiSh1n/learning_Python3/blob/29c0b705eb2dbf1369a7408c7ab4b9177d05018c/data_analysis/images/obj1.png)
 ![](https://github.com/hiSh1n/learning_Python3/blob/29c0b705eb2dbf1369a7408c7ab4b9177d05018c/data_analysis/images/f1.png)
